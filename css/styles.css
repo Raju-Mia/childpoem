@@ -1,0 +1,38 @@
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Style the header */
+  header{
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    height: 500px;
+    width: auto;
+    
+  }
+  .btn {
+    margin-top: 203px;
+    font-size: 35px;
+  }
+  .m-button {
+    background-color: powderblue;
+  }
+
+
+
+/* FOOTER CODE START */
+  .footer {
+    height: 70px;
+    width: 100%;
+    background-color: rgb(23, 167, 192);
+    color: white;
+    text-align: center;
+  }
+ /* .fot-cont {
+   margin-top: 200px;
+ } */
+  /* FOOTER CODE ENDT */
